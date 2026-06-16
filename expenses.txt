@@ -1,0 +1,3 @@
+500,tech
+800,grocery
+1300,Fashio
